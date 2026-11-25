@@ -7,16 +7,18 @@
 THE TUESDAY GLOBE — one image that sums up the world news of
 **Tuesday 24 November 2026**: the front page of an imaginary daily
 newspaper, drawn at 1024x1024 so the date and every headline stay
-readable even as a thumbnail. This early edition, drawn on Tuesday
-morning in Tokyo, carries **36 stories from 6 continents**: a lead
-report (NATO's pledge of stronger border defence after Russian
-missiles fell in Poland and a fresh drone incursion overnight), a
-second lead on Jensen Huang's return to Nvidia and Wall Street's
-rebound, a strip on Iran's report of three tanker fires in the
-Strait of Hormuz, a dotted world map whose numbered pins match the
-stories, 36 numbered briefs in three columns, and a sources line
-along the foot of the page. A final edition follows tonight; the
-last submission before the deadline counts.
+readable even as a thumbnail. This final edition, drawn on
+Wednesday in Tokyo with the completed Tuesday available in every
+time zone, carries **36 stories from 6 continents**: a lead report
+(Russia's war pressing on NATO's border — Berlin's defence pledge,
+Warsaw calling the latest drone incursion deliberate, and the
+dawn strike on Zaporizhzhia), a second lead on the fall of
+Shanghai's party chief Chen Jining in Xi's widening crackdown, a
+strip on Iran's reports of further tanker mine strikes in the
+Strait of Hormuz, a dotted world map whose numbered pins match
+the stories, 36 numbered briefs in three columns, and a sources
+line along the foot of the page. It replaces the early edition;
+the last submission before the deadline counts.
 
 This repository is an entry in the make.fun bounty
 [Sum up 24 November's world news in one image](https://make.fun/bounty/news-image-20261124).

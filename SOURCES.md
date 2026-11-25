@@ -1,63 +1,90 @@
-# Sources — Tuesday 24 November 2026 (early edition)
+# Sources — Tuesday 24 November 2026 (final edition)
 
-Every story on the page was reported on Tuesday 24 November 2026
-(Tuesday papers and Tuesday-morning wires), or is a Monday event
-carried on Tuesday's front pages; single-source claims are
-attributed on the page itself.
+Every story on the page was reported on Tuesday 24 November 2026,
+or is a Monday development that Tuesday's papers carried and that
+the page dates as such. Single-source and single-side claims are
+attributed on the page itself. This final edition was drawn on
+Wednesday 25 November with the completed Tuesday available in
+every time zone, and replaces the early edition.
 
-## Lead — NATO's eastern border
+## Lead — Russia's war and NATO's border
 
-Reuters reported NATO will deploy an AWACS early-warning aircraft
-to Poland after prosecutors confirmed three Russian Kh-101
-missiles, manufactured in Russia in Q4 2026, landed in Poland on
-Friday; and that a Russian UAV briefly violated Polish airspace
-overnight during the attack on western Ukraine, with a shoot-down
-authorised but not carried out. Kyodo's wire (via KBC, filed
-24 Nov 03:48 JST) reported the Berlin press conference: Rutte
-called the incursions a dangerous Russian incident linked to the
-war, Merz demanded Russia stop its provocations, and both pledged
-stronger EU/NATO external-border and Black Sea drone defence.
+Reuters and UPI reported the overnight Russian drone incursion
+into Polish airspace and Deputy Defence Minister Pawel Zalewski's
+statement that he assumed it was a deliberate act; Fox News
+reported Poland's renewed push on Tuesday for a permanent US
+troop presence. Kyodo's wire (via KBC) reported Monday's Berlin
+press conference: Rutte called the incursions a dangerous Russian
+incident, Merz demanded Russia stop its provocations, and both
+pledged stronger EU/NATO external-border defence. Reuters
+reported NATO's AWACS deployment decision and the prosecutors'
+identification of Friday's missiles as Russian Kh-101s. Al
+Jazeera and UPI, citing Ukraine's State Emergency Service,
+reported Tuesday's dawn strike on Zaporizhzhia: two killed, 41
+wounded, an infant among them. Reuters and the Kyiv Independent
+reported Hungary's Prime Minister Peter Magyar meeting President
+Zelenskiy in Zakarpattia on Tuesday, his first visit to Ukraine
+since taking office in May.
 
-## Second lead — the Huang comeback
+## Second lead — the Shanghai purge
 
-Reuters (Trading Day and news wires), the Asahi Shimbun and Times
-Now reported Nvidia's reinstatement of Jensen Huang as CEO eleven
-days after his resignation, the board's unanimity, President
-Trump's claim to have convinced the board, US lawmakers'
-criticism, Monday's market rebound (Nvidia +31%, Nasdaq +6.5%,
-S&P 500 +4.7%), the CrowdStrike–Zscaler $44bn deal, and the US
-Entity-List designation of Singapore's Megaspeed.
+Reuters, the Wall Street Journal, Channel NewsAsia, Al Jazeera
+and NHK reported on Tuesday, via Xinhua and the Central
+Commission for Discipline Inspection, that Shanghai party
+secretary Chen Jining, a Politburo member, is under investigation
+for suspected severe violations of discipline and law — the
+fourth Politburo member probed since 2025 and the first Shanghai
+party chief investigated since 2006.
 
-## Third lead — Hormuz and Iran
+## Strip — Hormuz
 
-Times Now's live blog (24 Nov, IST) carried Fars/IRGC's report of
-three tankers hitting naval mines in the Strait of Hormuz; Geo TV
-and wire reports carried the US Treasury's wider Iran sanctions,
-the $290bn damages demand, the Rubio–Al Thani talks, the Qatari
-premier's meeting with VP Vance, Trump's post-1-January strike
-warning, and the Saudi-led coalition's Houthi drone interception.
+Xinhua (24 Nov), Arab News and Shafaq News reported the Iranian
+Army's and IRGC Navy's statements of further mine strikes on
+Tuesday — one tanker stopped, two more on fire east of the
+strait — and parliament speaker Mohammad Bagher Ghalibaf's
+statement that Iran will take no practical steps and hold no
+talks with Washington until its seven conditions are met. US
+Central Command had not responded to the Iranian claims.
 
-## The 36 briefs
+## Markets and business briefs
+
+CNA (Focus Taiwan) reported the Taiex closing up 8.99 percent, a
+record gain of 3,310.46 points, on Jensen Huang's reinstatement
+at Nvidia; Nikkei Asia reported the Nikkei up about 3.9 percent
+and the Kospi up about 6.3 percent. Reuters market reports gave
+Tuesday's US close: Dow +0.85% to 50,018.70 (its first close
+above 50,000), S&P 500 -0.50%, Nasdaq -1.48%, Nvidia -5.9% after
+Monday's 31% leap on Huang's return. The Wall Street Journal and
+the companies' release (24 Nov) reported Sanofi's agreement to
+buy Insmed for $41 billion in cash, the sector's biggest deal of
+2026.
+
+## The remaining briefs
 
 The briefs draw on: Al Jazeera and The Hindu (Kyiv region toll of
-15, the Dymer rescue, the Patriot appeal); Zelenskiy's statement
-on the Merkury sinking (Reuters/Al Jazeera); Russia's Foreign
-Ministry on Estonia (Reuters summary); Reuters flash PMI reports
-for the euro zone and the UK; Reuters on Syria training talks and
-West Bank settler violence; Reuters on the Cikande factory fire
-(24 dead, about 30 missing), Prabowo's vice-presidential nominees
-and President Lee's security reshuffle (Kang Kum-sil, first woman
-NIS director nominee); KCNA via Reuters on the Swiss office;
-Raisina Post/UPSC canvas on India–China LAC talks, the Nepal PM's
-Delhi visit and the NCS ONE portal; Kyodo items in Tuesday's
-Japanese papers (Fukushima snow relief, Hitachiomiya briefing,
-Aomori robot dog); Straits Times, Saur Energy and Times of Central
-Asia on the COP31 aftermath and Australia's backlash; CDC figures
-via Medical Daily (11,712 Ebola cases, 5,720 deaths) and Today
-News Africa (South Sudan readiness, Ethiopia polio campaign);
-USA Today and Reuters on the halted Iowa lead-azide detonation;
-the Washington Post via Reuters on FBI deputy director Raia;
-Reuters on the Democrats' 258 House seats and Miley Cyrus's
-wedding; Reuters Trading Day on Brazil's real at 6.00 per dollar;
-Yeni Safak/IOM on Sudan; and BBC Sport / Field Level Media on
-NFL Week 11 (49ers in Mexico City, Bills 9-1).
+15, the Patriot appeal); Zelenskiy's statement on the Merkury
+sinking (Reuters/Al Jazeera); Reuters on West Bank settler
+violence, the Cikande factory fire (24 dead, about 30 missing),
+Prabowo's vice-presidential nominees and President Lee's security
+reshuffle (Kang Kum-sil, first woman NIS director nominee);
+Raisina Post/UPSC canvas on India–China LAC talks and the Nepal
+PM's Delhi visit; Reuters on Sheikh Hasina's planned 16 December
+return and Dhaka's arrest warning; Nikkan Sports on Prime
+Minister Takaichi's meeting with ICC President Tomoko Akane and
+Japan's prepayment of its 2027 ICC dues; Kyodo items in Tuesday's
+Japanese papers (Fukushima snow relief, Aomori robot dog); Reuters
+flash PMI for the euro zone; the UK Health Security Agency's
+Tuesday release of an estimated 5,258 heat-linked deaths in
+England in summer 2026, the highest since records began in 2016;
+PACNEWS (Suva, 24 Nov) on the Pacific Elders' Voice statement
+accusing Australia over COP31; CDC figures via Medical Daily
+(11,712 Ebola cases, 5,720 deaths); UN Women and UNODC's Femicide
+Brief published on Tuesday (47,000 women and girls killed by
+partners or family in 2025); USA Today and Reuters on the halted
+Iowa lead-azide detonation; the Washington Post via Reuters on
+FBI deputy director Raia; Reuters on the Democrats' 258 House
+seats and Miley Cyrus's wedding; Reuters Trading Day on Brazil's
+real at 6.00 per dollar in Monday trading; AP and the Court of
+Arbitration for Sport on Senegal's reinstatement as Africa Cup
+champions; and AP on Washington's 22-20 win over Cincinnati on
+Monday night.
